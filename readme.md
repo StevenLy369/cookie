@@ -1,3 +1,3 @@
-#_Cookie Recipe_#
+# Cookie Recipe
 
-_{Basic cookie recipe}
+## Just a basic cookie recipe
